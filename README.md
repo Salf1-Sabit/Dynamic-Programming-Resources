@@ -19,7 +19,7 @@ As a learner in Competitive Programming (CP), I've found certain resources inval
 
 ## Classical Problems
 
-Here are some must-do DP problems (these are some famous classical problems and most of the easy/medium DP problems we face are variations of these ones). If you face issues understanding the problems don’t hesitate to watch a tutorial on youtube about that particular problem.
+Here are some of the must-do DP problems (these are some famous classical problems and most of the easy/medium DP problems we face are variations of these ones). If you face issues understanding the problems don’t hesitate to watch a tutorial on youtube about that particular problem.
 
 1. [0/1 Knapsack problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
    - Knapsack variations:
