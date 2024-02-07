@@ -46,7 +46,7 @@ Here are some of the must-do DP problems (these are some famous classical proble
 > Finally, when you’re done with these aforementioned classical problems, go to [this link](https://www.spoj.com/problems/tag/dynamic-programming) and solve **at least 20 problems** from this page (maintaining difficulty in increasing order). Once you're ready, dive into dynamic programming (DP) problems on platforms like **Codeforces**, **Codechef**, **Atocoder** choosing ones that match your current rating level. Good luck!
 
 ## The Famous Atcoder DP contest
-This is a good place to test your DP skills and learn something new as well besides having fun. 
+This is a good place to test your DP skills and learn something new as well besides having fun. \
 Link: [Contest Link](https://atcoder.jp/contests/dp/tasks)
 
 ## Footnote
