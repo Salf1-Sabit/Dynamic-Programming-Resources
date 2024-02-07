@@ -28,7 +28,7 @@ Here are some of the must-do DP problems (these are some famous classical proble
      - [Coin change](https://www.geeksforgeeks.org/coin-change-dp-7/)
 2. [Longest Common Subsequence (LCS)](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
    - (LCS) variations:
-     - [Longest palindromic subsequence](https://www.geeksforgeeks.org/dynamic-programming-set-12-longest-palindromic-subsequence/)
+     - [Longest palindromic subsequence](https://www.geeksforgeeks.org/dynamic-programming-set-12-longest-palindromic-subsequence/) (LPS)
      - [Minimum insertions to form a palindrome](https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome-dp-28/)
 3. [Longest Increasing Subsequence (LIS)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
    - (LIS) variations:
