@@ -15,7 +15,7 @@ As a learner in Competitive Programming (CP), I've found certain resources inval
 
 
 > [!NOTE]
-> Must watch! These are some of the best Dynamic Programming contents I’ve ever seen.
+> Must watch! These are some of the best Dynamic Programming contents out there.
 
 ## Classical Problems
 
