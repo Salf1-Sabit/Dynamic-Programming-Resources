@@ -37,7 +37,7 @@ Here are some of the must-do DP problems (these are some famous classical proble
    - [Minimum cost path in a grid](https://www.geeksforgeeks.org/min-cost-path-dp-6/)
    - [Count the number of paths in a grid](https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/)
    - [Count the number of unique paths in a grid **(with obstacles)**](https://www.geeksforgeeks.org/unique-paths-in-a-grid-with-obstacles/)
-5. More important problems
+5. More problems
    - [Minimum number of jumps to reach the end of an array](https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/)
    - [Count ways to reach the Nth stair](https://www.geeksforgeeks.org/count-ways-reach-nth-stair-using-step-1-2-3/)
 
