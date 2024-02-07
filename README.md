@@ -43,7 +43,7 @@ Here are some of the must-do DP problems (these are some famous classical proble
    - [Count ways to reach the Nth stair](https://www.geeksforgeeks.org/count-ways-reach-nth-stair-using-step-1-2-3/)
 
 > [!IMPORTANT]
-> Finally, when you’re done with these aforementioned classical problems, go to [this link](https://www.spoj.com/problems/tag/dynamic-programming) and solve **at least 20 problems** from this page (maintaining difficulty in increasing order). Once you're ready, dive into dynamic programming (DP) problems on platforms like **Codeforces**, **Codechef**, choosing ones that match your current rating level. Good luck!
+> Finally, when you’re done with these aforementioned classical problems, go to [this link](https://www.spoj.com/problems/tag/dynamic-programming) and solve **at least 20 problems** from this page (maintaining difficulty in increasing order). Once you're ready, dive into dynamic programming (DP) problems on platforms like **Codeforces**, **Codechef**, **atocoder** choosing ones that match your current rating level. Good luck!
 
 ## The Famous Atcoder DP contest
 This is a good place to test your DP skills and learn something new as well besides having fun. 
