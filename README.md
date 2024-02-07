@@ -11,7 +11,7 @@ As a learner in Competitive Programming (CP), I've found certain resources inval
 5. [Errichto Lecture #3](https://www.youtube.com/watch?v=pwpOC1dph6U)
       - Covers Line of wines
 7. [Aditya Verma DP playlist](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - `Watching till lecture #32 is enough!`
-      - Builds a solid understainding of DP using the the classical problems from depth 
+      - Builds a solid foundation of DP using the the classical problems from depth 
 
 
 > [!NOTE]
