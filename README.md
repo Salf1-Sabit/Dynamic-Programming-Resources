@@ -37,13 +37,18 @@ Here are some of the must-do DP problems (these are some famous classical proble
    - [Minimum cost path in a grid](https://www.geeksforgeeks.org/min-cost-path-dp-6/)
    - [Count the number of paths in a grid](https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/)
    - [Count the number of unique paths in a grid **(with obstacles)**](https://www.geeksforgeeks.org/unique-paths-in-a-grid-with-obstacles/)
-5. More problems
+5. Some famous problems
+   - [Edit distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)
    - [Minimum number of jumps to reach the end of an array](https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/)
    - [Count ways to reach the Nth stair](https://www.geeksforgeeks.org/count-ways-reach-nth-stair-using-step-1-2-3/)
 
 > [!IMPORTANT]
 > Finally, when you’re done with these aforementioned classical problems, go to [this link](https://www.spoj.com/problems/tag/dynamic-programming) and solve **at least 20 problems** from this page (maintaining difficulty in increasing order). Once you're ready, dive into dynamic programming (DP) problems on platforms like **Codeforces**, **Codechef**, choosing ones that match your current rating level. Good luck!
 
+## The Famous Atcoder DP contest
+This is a good place to test your DP skills and learn something new as well besides having fun. 
+Link: [Contest Link](https://atcoder.jp/contests/dp/tasks)
+
 ## Footnote
 
-While these resources have been immensely beneficial in my CP journey, I acknowledge that learning DP is a continuous process, and there's always more to explore and understand. It's essential to approach DP problems with patience, persistence, and a willingness to learn from both successes and failures.
+While these resources have been immensely beneficial in my CP journey, I acknowledge that learning DP is a continuous process, and there's **always more to explore and understand**. It's essential to approach DP problems with patience, persistence, and a willingness to learn from both successes and failures.
