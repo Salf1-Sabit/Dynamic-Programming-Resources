@@ -4,11 +4,15 @@ As a learner in Competitive Programming (CP), I've found certain resources inval
 
 ## 🔗 Video Lectures on DP (Helped me understand DP)
 
-[Errichto Lecture #1](https://www.youtube.com/watch?v=YBSt1jYwVfU&t=21s) - Fibonacci, iteration vs recursion \
-[Errichto Lecture #2](https://www.youtube.com/watch?v=1mtvm2ubHCY) - Coin change, double counting \
-[Errichto Lecture #3](https://www.youtube.com/watch?v=pwpOC1dph6U) - Line of wines\
-[Aditya Verma DP playlist](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Builds a solid understainding of DP using the the classical problems from depth 
-`Watching till lecture #32 is enough!`
+1. [Errichto Lecture #1](https://www.youtube.com/watch?v=YBSt1jYwVfU&t=21s)
+      - Fibonacci, iteration vs recursion
+3. [Errichto Lecture #2](https://www.youtube.com/watch?v=1mtvm2ubHCY)
+      - Coin change, double counting 
+5. [Errichto Lecture #3](https://www.youtube.com/watch?v=pwpOC1dph6U)
+      - Line of wines
+7. [Aditya Verma DP playlist](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - `Watching till lecture #32 is enough!`
+      - Builds a solid understainding of DP using the the classical problems from depth 
+
 
 > [!NOTE]
 > Must watch! These are some of the best Dynamic Programming contents I’ve ever seen.
