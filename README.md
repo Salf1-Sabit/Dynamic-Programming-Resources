@@ -1,6 +1,6 @@
-# Introduction to Dynamic Programming
+# Dynamic Programming Learning Resources
 
-Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial.
+As a learner in Competitive Programming (CP), I've found certain resources invaluable for grasping Dynamic Programming (DP) concepts, despite not considering myself an expert in the field. These resources have significantly aided my understanding and performance in CP. It's important to note that the following recommendations are subjective and based solely on my personal experience
 
 ## 🔗 Video Lectures on DP (Helped me understand DP)
 
@@ -38,3 +38,7 @@ Here are some must-do DP problems (these are some famous classical problems and 
 
 > [!IMPORTANT]
 > Finally, when you’re done with these aforementioned classical problems, go to [this link](https://www.spoj.com/problems/tag/dynamic-programming) and solve **at least 20 problems** from this page (maintaining difficulty in increasing order). And then, you’re good to go and then start solving DP problems from **(Codeforces)** depending on your rating. Good Luck!!
+
+## Footnote
+
+While these resources have been immensely beneficial in my CP journey, I acknowledge that learning DP is a continuous process, and there's always more to explore and understand. It's essential to approach DP problems with patience, persistence, and a willingness to learn from both successes and failures.
