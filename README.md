@@ -5,11 +5,11 @@ As a learner in Competitive Programming (CP), I've found certain resources inval
 ## 🔗 Video Lectures on DP (Helped me understand DP)
 
 1. [Errichto Lecture #1](https://www.youtube.com/watch?v=YBSt1jYwVfU&t=21s)
-      - Fibonacci, iteration vs recursion
+      - Covers Fibonacci, iteration vs recursion
 3. [Errichto Lecture #2](https://www.youtube.com/watch?v=1mtvm2ubHCY)
-      - Coin change, double counting 
+      - Covers Coin change, double counting 
 5. [Errichto Lecture #3](https://www.youtube.com/watch?v=pwpOC1dph6U)
-      - Line of wines
+      - Covers Line of wines
 7. [Aditya Verma DP playlist](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - `Watching till lecture #32 is enough!`
       - Builds a solid understainding of DP using the the classical problems from depth 
 
